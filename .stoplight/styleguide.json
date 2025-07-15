@@ -1,0 +1,26 @@
+{
+  "name": "test909090990909",
+  "description": "",
+  "spectralExtends": [],
+  "extends": [],
+  "formats": [
+    "oas2",
+    "oas3",
+    "oas3.0",
+    "oas3.1"
+  ],
+  "aliases": {},
+  "rules": {
+    "the-msg": {
+      "id": "YBV8gTzVtJZqAma8HW_NL",
+      "given": [],
+      "severity": "error",
+      "then": {
+        "function": ""
+      },
+      "name": "the-msg",
+      "message": "heeeeee"
+    }
+  },
+  "extendedDefault": false
+}
