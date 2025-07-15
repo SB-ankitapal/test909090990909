@@ -37,6 +37,19 @@ paths:
                     signUpDate: '2019-08-24'
         '404':
           description: User Not Found
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  test:
+                    type: boolean
+                    x-stoplight:
+                      id: 1k0cbdr3rn8ss
+                  test1:
+                    x-stoplight:
+                      id: j37qmoty1own8
+                    enum: []
       operationId: get-users-userId
       description: Retrieve the information of the user with the matching user ID.
       x-stoplight:
