@@ -7,3 +7,8 @@ properties:
     type: string
     x-stoplight:
       id: yb6mwp9n5kdqm
+  test123:
+    type: string
+    x-stoplight:
+      id: czbvl4tpus6o8
+description: model213434343
