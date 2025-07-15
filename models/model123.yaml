@@ -1,0 +1,9 @@
+title: model123
+x-stoplight:
+  id: 3tgy70016rmbg
+type: object
+properties:
+  id:
+    type: string
+    x-stoplight:
+      id: yb6mwp9n5kdqm
